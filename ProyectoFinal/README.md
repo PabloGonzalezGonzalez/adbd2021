@@ -1,8 +1,3 @@
-[Documento del Modelo Conceptual](https://github.com/PabloGonzalezGonzalez/adbd2021/blob/main/ProyectoFinal/Documentos/Modelo%20Conceptual-Grupo%205.pdf)
-
-[Documento del Modelo Relacional](https://github.com/PabloGonzalezGonzalez/adbd2021/blob/main/ProyectoFinal/Documentos/Modelo%20Relacional-Grupo5.pdf)
-
-
 # Proyecto final: Ranking FIFPro
 
 ## Administración y Diseño de Bases de Datos
@@ -46,3 +41,17 @@ Continuando, se llevará a cabo un conteo de la información referente a las com
 7. El código de cada club es único para dicha entidad.
 8. Los jugadores que compiten con una selección deberán pertenecer a un club.
 9. Un club no puede jugar más partidos de una determinada competición que el número total de partidos de dicha competición.
+
+
+## Documentos enlazados
+
+[Documento del Modelo Conceptual](https://github.com/PabloGonzalezGonzalez/adbd2021/blob/main/ProyectoFinal/Documentos/Modelo%20Conceptual-Grupo%205.pdf)
+
+[Documento del Modelo Relacional](https://github.com/PabloGonzalezGonzalez/adbd2021/blob/main/ProyectoFinal/Documentos/Modelo%20Relacional-Grupo5.pdf)
+
+[Documento de Generación de Código]()
+
+[Documento de Carga de Datos]()
+
+
+## Pruebas realizadas sobre la base de datos
