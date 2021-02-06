@@ -53,6 +53,11 @@ Continuando, se llevará a cabo un conteo de la información referente a las com
 
 [Documento de Carga de Datos](https://github.com/PabloGonzalezGonzalez/adbd2021/blob/main/ProyectoFinal/Documentos/Pruebas-Grupo5.pdf)
 
+[Creación de tablas](https://github.com/PabloGonzalezGonzalez/adbd2021/blob/main/ProyectoFinal/Documentos/CreacionTablas.sql)
+
+[Carga de datos](https://github.com/PabloGonzalezGonzalez/adbd2021/blob/main/ProyectoFinal/Documentos/carga_datos.sql)
+
+[Triggers](https://github.com/PabloGonzalezGonzalez/adbd2021/blob/main/ProyectoFinal/Documentos/triggers.sql)
 
 ## Distribución de tareas
 
