@@ -51,7 +51,11 @@ Continuando, se llevará a cabo un conteo de la información referente a las com
 
 [Documento de Generación de Código]()
 
-[Documento de Carga de Datos]()
+[Documento de Carga de Datos](https://github.com/PabloGonzalezGonzalez/adbd2021/blob/main/ProyectoFinal/Documentos/Pruebas-Grupo5.pdf)
 
 
-## Pruebas realizadas sobre la base de datos
+## Distribución de tareas
+
+Este trabajo ha sido realizado mediante el grupo integro. Se han organizados sesiones de charla telemática y se ha trabajado en los puntos de una manera grupal. Las sesiones han sido señaladas en cada uno de los documentos.
+
+Esta metodología de trabajo ha sido adaptada debido a los errores cometidos en tareas anteriores, donde se erró al dividir mucho el trabajo y, por lo tanto, quitando el factor colectivo de éste.
