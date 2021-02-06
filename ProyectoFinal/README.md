@@ -63,4 +63,4 @@ Continuando, se llevará a cabo un conteo de la información referente a las com
 
 Este trabajo ha sido realizado mediante el grupo integro. Se han organizados sesiones de charla telemática y se ha trabajado en los puntos de una manera grupal. Las sesiones han sido señaladas en cada uno de los documentos.
 
-Esta metodología de trabajo ha sido adaptada debido a los errores cometidos en tareas anteriores, donde se erró al dividir mucho el trabajo y, por lo tanto, quitando el factor colectivo de éste.
+Esta metodología de trabajo ha sido adaptada debido a los errores cometidos en tareas anteriores, donde se erró al dividir mucho el trabajo y, por lo tanto, se quitó el factor colectivo de éste.
