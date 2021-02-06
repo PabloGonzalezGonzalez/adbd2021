@@ -49,7 +49,7 @@ Continuando, se llevará a cabo un conteo de la información referente a las com
 
 [Documento del Modelo Relacional](https://github.com/PabloGonzalezGonzalez/adbd2021/blob/main/ProyectoFinal/Documentos/Modelo%20Relacional-Grupo5.pdf)
 
-[Documento de Generación de Código]()
+[Documento de Generación de Código](https://github.com/PabloGonzalezGonzalez/adbd2021/blob/main/ProyectoFinal/Documentos/Scripts-Grupo5.pdf)
 
 [Documento de Carga de Datos](https://github.com/PabloGonzalezGonzalez/adbd2021/blob/main/ProyectoFinal/Documentos/Pruebas-Grupo5.pdf)
 
